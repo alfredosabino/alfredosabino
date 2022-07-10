@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
 </div>
 <hr>
-<h4>Social Midia</h4>
+<h3>Social Midia</h3>
 <div>  
 <a href="https://www.linkedin.com/in/alfredo.sabinof" alt="Facebook" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.linkedin.com/in/alfredo.sabinof">
